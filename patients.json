@@ -1,0 +1,46 @@
+[
+  {
+    "room": "12",
+    "name": "Synthetic Patient A",
+    "age": 67,
+    "dx": "CHF exacerbation, day 2",
+    "vitals": [
+      {"time": "11:00", "sbp": 128, "dbp": 78, "hr": 88, "spo2": 95, "temp_c": 36.9},
+      {"time": "15:00", "sbp": 138, "dbp": 84, "hr": 94, "spo2": 94, "temp_c": 37.0},
+      {"time": "18:00", "sbp": 152, "dbp": 91, "hr": 102, "spo2": 93, "temp_c": 37.1}
+    ],
+    "meds": [
+      {"name": "Furosemide 40 mg IV", "due": "09:00", "given": true},
+      {"name": "Metoprolol 25 mg PO", "due": "17:00", "given": true}
+    ]
+  },
+  {
+    "room": "14",
+    "name": "Synthetic Patient B",
+    "age": 54,
+    "dx": "Cellulitis left leg",
+    "vitals": [
+      {"time": "11:00", "sbp": 122, "dbp": 76, "hr": 84, "spo2": 98, "temp_c": 37.6},
+      {"time": "15:00", "sbp": 120, "dbp": 74, "hr": 90, "spo2": 98, "temp_c": 37.9},
+      {"time": "18:00", "sbp": 118, "dbp": 72, "hr": 96, "spo2": 97, "temp_c": 38.3}
+    ],
+    "meds": [
+      {"name": "Vancomycin 1 g IV", "due": "06:00", "given": true},
+      {"name": "Vancomycin 1 g IV", "due": "18:00", "given": false}
+    ]
+  },
+  {
+    "room": "17",
+    "name": "Synthetic Patient C",
+    "age": 41,
+    "dx": "Post-op appendectomy, day 1",
+    "vitals": [
+      {"time": "11:00", "sbp": 118, "dbp": 74, "hr": 78, "spo2": 98, "temp_c": 36.8},
+      {"time": "15:00", "sbp": 116, "dbp": 72, "hr": 76, "spo2": 99, "temp_c": 36.9},
+      {"time": "18:00", "sbp": 119, "dbp": 75, "hr": 74, "spo2": 99, "temp_c": 36.8}
+    ],
+    "meds": [
+      {"name": "Acetaminophen 1 g PO", "due": "14:00", "given": true}
+    ]
+  }
+]
