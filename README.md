@@ -119,6 +119,6 @@ it off the screen and into the phone call nurses are already making.
 
 <div align="center">
 
-Built by **Ron** · UC San Diego Data Science · [LinkedIn](https://linkedin.com/in/<your-handle>) · [Kaggle](https://www.kaggle.com/tommydeth)
+Built by **Tommy Deth** · UC San Diego Data Science · [LinkedIn](https://linkedin.com/in/<your-handle>) · [Kaggle](https://www.kaggle.com/tommydeth)
 
 </div>
